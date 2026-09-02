@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ajay Rathna Maddula, a computer science and engineering student pursuing my B.Tech at SRM Institute of Science and Technology, Ramapuram.<br><br>I am passionate about technology, data analysis, and problem-solving. I am actively building my skills and preparing for professional opportunities in areas such as associate analyst, data analyst, software engineering, data engineering, and business operations.
+I am Ajay Rathna Maddula, a computer science and engineering student Completed my B.Tech at SRM Institute of Science and Technology, Ramapuram.<br><br>I am passionate about technology, data analysis, and problem-solving. I am actively building my skills and preparing for professional opportunities in areas such as associate analyst, data analyst, software engineering, data engineering, and business operations.
 
 
 ## 🌐 Socials:
